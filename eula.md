@@ -4,6 +4,8 @@ title: End User License Agreement
 permalink: /eula
 ---
 
+> We strongly enforce a no tolerance policy for objectionable content. If you see inappropriate content, please use the Flag feature found under each record of user profile. 
+
 This End User License Agreement ("Agreement") is between you and Hux, Inc. (DBA “Luka - Local Services”) and governs use of this app made available through the Apple App Store. By installing the Luka - Local Services App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the Luka - Local Services App.
 
 In order to ensure Luka - Local Services provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content. If you see inappropriate content, please use the Flag feature found under each record of user profile.
