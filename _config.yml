@@ -1,0 +1,16 @@
+title: Luka Help Center
+email: james@hux.com
+description: Help center and documents for Luka
+baseurl: ""
+url: "https://help.getluka.com"
+twitter_username: huxatl
+github_username:  jamesloper
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
